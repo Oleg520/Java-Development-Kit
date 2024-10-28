@@ -1,3 +1,5 @@
+package game_window;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -11,7 +13,7 @@ public class GameWindow extends JFrame {
     private SettingWindow settingWindow;
     private Map map;
 
-    GameWindow(){
+    public GameWindow(){
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(WIDTH, HEIGHT);
         setLocationRelativeTo(null);
