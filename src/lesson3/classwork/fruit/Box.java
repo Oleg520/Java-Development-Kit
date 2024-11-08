@@ -1,4 +1,4 @@
-package lesson3.fruit;
+package lesson3.classwork.fruit;
 
 import java.util.ArrayList;
 import java.util.List;

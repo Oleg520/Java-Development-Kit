@@ -1,4 +1,4 @@
-package lesson3.ex3;
+package lesson3.classwork.ex3;
 
 import java.util.Iterator;
 import java.util.List;

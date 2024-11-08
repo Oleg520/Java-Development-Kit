@@ -1,4 +1,4 @@
-package lesson3.ex1;
+package lesson3.classwork.ex1;
 
 import java.io.DataInput;
 import java.io.InputStream;

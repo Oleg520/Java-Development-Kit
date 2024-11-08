@@ -1,4 +1,4 @@
-package lesson3.ex2;
+package lesson3.classwork.ex2;
 
 import java.util.Arrays;
 
